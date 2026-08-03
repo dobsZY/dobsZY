@@ -73,14 +73,18 @@
 ### 📊 GitHub Statistics & Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dobsZY&theme=onedark" alt="Trophies" />
+  <a href="https://github.com/dobsZY">
+    <img src="https://github-profile-trophy.vercel.app/?username=dobsZY&theme=onedark&margin-w=15" alt="dobsZY Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobsZY&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=radium" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dobsZY&show_icons=true&theme=radium&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=radium" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=radium" alt="GitHub Streak" />
 </p>
 
 <p align="center">
