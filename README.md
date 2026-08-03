@@ -70,23 +70,23 @@
 
 ---
 
-### 📊 GitHub Statistics & Trophies
+### 🐍 Contribution Graph & Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dobsZY/dobsZY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dobsZY/dobsZY/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dobsZY/dobsZY/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/dobsZY">
-    <img src="https://github-profile-trophy.vercel.app/?username=dobsZY&theme=onedark&margin-w=15" alt="dobsZY Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dobsZY&show_icons=true&theme=synthwave" alt="GitHub Stats" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dobsZY&show_icons=true&theme=radium&rank_icon=github" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=radium" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=radium" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=radium" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=synthwave" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=synthwave" alt="Top Languages" width="48%" />
 </p>
