@@ -82,16 +82,8 @@
 
 ### 📊 GitHub Statistics
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=dobsZY&show_icons=true&theme=synthwave" height="195" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=synthwave" height="195" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=synthwave" height="195" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dobsZY&show_icons=true&theme=synthwave" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobsZY&theme=synthwave" alt="GitHub Streak" width="32%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dobsZY&layout=compact&theme=synthwave" alt="Top Languages" width="32%" />
+</p>
